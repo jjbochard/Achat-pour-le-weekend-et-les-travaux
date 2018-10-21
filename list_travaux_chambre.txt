@@ -1,4 +1,4 @@
 Fourniture à acheter :
 	- 2 pot de peinture blanche --> OK
 	- 1 étagère --> OK
-	- 2 rouleaux de tapisserie --> J'ai trouvé 2 types de tapisserie que me plaisent. Pourrais tu aller au magasin et prendre celle qui te convient?
+	- 3 rouleaux de tapisserie --> J'ai trouvé 2 types de tapisserie que me plaisent. Pourrais tu aller au magasin et prendre celle qui te convient et prendre 3 rouleaux?
