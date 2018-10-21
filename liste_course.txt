@@ -1,4 +1,4 @@
 A acheter : 
-	- 1 paquet de spaghetti
-	- 4 tomates
-	- 200g de viande de boeuf hachée
+	- 1 paquet de spaghetti --> OK
+	- 4 tomates --> Il n'y avait plus de tomates. Pouurais tu verifier dans un autre magasin?
+	- 200g de viande de boeuf hachÃ©e --> OK
